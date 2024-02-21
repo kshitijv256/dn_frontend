@@ -1,4 +1,3 @@
-import React from "react";
 import { Panel, PanelGroup, PanelResizeHandle } from "react-resizable-panels";
 import logo from "../assets/react.svg";
 
